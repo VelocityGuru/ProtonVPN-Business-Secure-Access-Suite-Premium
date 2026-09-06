@@ -1,0 +1,23 @@
+{
+  "repo": "protonvpn-business-secure-access-suite-premium",
+  "product": "ProtonVPN Business Secure Access Suite Premium",
+  "kind": "network",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "network",
+  "topics": [
+    "protonvpn-business",
+    "secure-core",
+    "netshield",
+    "business-vpn",
+    "privacy-first",
+    "protonvpn-setup-failed-fix",
+    "how-to-install-protonvpn",
+    "protonvpn-windows",
+    "protonvpn-desktop-2026",
+    "protonvpn-desktop-package"
+  ],
+  "site": "toolix.me"
+}
